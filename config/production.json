@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://sambhav36:sambhav36@devconnector.vyflw.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId" : "652ea7cf2acff02bacca",
+    "githubSecret" : "de030277f33c7a6b15cda561f7a07b0ffad8fcb1"
+}
